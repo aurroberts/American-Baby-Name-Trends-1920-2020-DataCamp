@@ -11,7 +11,7 @@ This project analyzes U.S. baby name date from 1920 to 2020 using SQL. The goal 
 - Set operations (INTERSECT)
 
 ## Key Insights
-- Classified names as **"Classic"** of they appeared in 50 or more years, and **"Trendy"** of not.
+- Classified names as **"Classic"** iff they appeared in 50 or more years, and **"Trendy"** if not.
 - Ranked top 20 male names and evaluated the popularity of names like **Paul**.
 - Identified which female names appeared in both **1920 and 2020**, using 'INTERSECT'.
 
